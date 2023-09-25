@@ -5,7 +5,7 @@ start chrome
 start
 start chrome
 start
-srart chrome
+start chrome
 start
 start chrome
 goto loop
