@@ -6,3 +6,6 @@ Super super super simple but could crash some computers
 Added An image, more powerful
 
 You can use bat to exe converter and change icon, file name so you can troll your friends💀
+
+v2 image
+![V2 image](bit.ly/439u0ifnei0fhe0rnriwnkpednf)
